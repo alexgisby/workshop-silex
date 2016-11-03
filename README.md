@@ -17,3 +17,4 @@ $ make install
 - A simple route (/hello)
 - A namespace for additional classes (DemoApplication -> src/)
 - A simple server (`$ ./script/server`)
+- PHPUnit (`$ make test`)
