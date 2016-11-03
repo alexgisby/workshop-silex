@@ -1,0 +1,12 @@
+{
+  "require": {
+    "silex/silex": "^2.0",
+    "twig/twig": "~1.18",
+    "symfony/twig-bridge": "~2.7"
+  },
+  "autoload": {
+    "psr-4": {
+      "DemoApplication\\": "src"
+    }
+  }
+}
