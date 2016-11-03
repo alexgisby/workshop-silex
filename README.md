@@ -5,7 +5,7 @@ To be used for workshops etc.
 ## Installation:
 
 ```sh
-$ git clone ...
+$ git clone git@github.com:alexgisby/workshop-silex.git
 $ cd workshop-silex
 $ make install
 ```
