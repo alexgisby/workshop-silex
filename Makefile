@@ -3,3 +3,6 @@ install:
 
 test:
 	./vendor/bin/phpunit
+
+server:
+	./script/server

@@ -16,5 +16,5 @@ $ make install
 - Twig
 - A simple route (/hello)
 - A namespace for additional classes (DemoApplication -> src/)
-- A simple server (`$ ./script/server`)
+- A simple server (`$ ./script/server` or `$ make server`)
 - PHPUnit (`$ make test`)
